@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(25 , 25 , 25);
+    color: white;
+}
+.moves-img{
+    height: 70px;
+    width: 70px;
+    
+}
+.moves{
+    background-color: transparent;
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    border: solid 1px white;
+    margin-bottom: 15px;
+}
+.result{
+    font-family: Arial;
+    font-size: 26px;
+    font-weight: bold;
+}
+.title{
+    font-family: Arial;
+    font-size: 34px;
+    font-weight: bold;
+}
+.display{
+    font-family: Arial;
+    font-size: 20px;
+    font-weight: bold;
+}
+.display1{
+    font-family: Arial;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+.img-emoji{
+    height: 30px;
+    width: 30px;
+}
+.move, .score{
+    font-family: Arial;
+    font-size: 20px;
+    font-weight: bold;
+
+}
